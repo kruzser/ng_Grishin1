@@ -1,0 +1,26 @@
+header{
+    background-color: FireBrick ;
+    padding: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border: white 2px solid;
+    margin: 9px;
+    border-radius:30% ;
+    padding: 10px;
+}
+main{
+    background-color: ForestGreen ;
+    padding: 30px; 
+}
+main h1{
+    text-align: center;
+}
+main img{
+    height: 50px;
+    width: 50px;
+}
+main p{
+    font-size: 25px;
+}
